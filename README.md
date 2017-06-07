@@ -1,1 +1,1 @@
-dict
+Dictionary Game API
